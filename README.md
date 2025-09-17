@@ -6,8 +6,6 @@ This repository contains the implementation of a puzzle solver developed for the
 
 > Gülce Kardeş, David Krakauer, and Joshua A. Grochow
 
-You can replicate the results in the paper by configuring the random seed to 44 and following the instructions below.
-
 ## Solver Strategies
 
 The implementation in [`solvers.py`](solvers.py) incorporates the following strategies:
